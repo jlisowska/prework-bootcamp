@@ -1,0 +1,27 @@
+body{
+    background-color: #ededed;
+    font-family: Arial, sans-serif;
+}
+h1{
+    background-color: #32c1be;
+    padding: 5px;
+    text-align: center;
+}
+h2{
+    background-color: #f9dd97;
+    padding: 5px;
+    text-align: center;
+}
+#paragraph1{
+    background-color: #d6d3cc;
+    padding: 10px;
+    text-align: justify;
+}
+#paragraph2{
+    background-color: #7e1203;
+    padding: 10px;
+    text-align: justify;
+}
+ul{
+    background-color: #35343c;
+}

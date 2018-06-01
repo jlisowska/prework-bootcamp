@@ -1,0 +1,13 @@
+body{
+    background-color: #8B8B9A;
+}
+h1{
+    color: white;
+    margin-left: 15px;
+}
+.squares{
+    width: 100px;
+    height: 100px;
+    background-color: #FFBE00;
+    margin: 0 0px 10px 25px;
+}

@@ -1,0 +1,14 @@
+p{
+    background-color: #333132;
+    width: 100px;
+    height: 100px;
+}
+.differentbackground{
+    background-color: #dbbfb8;
+}
+#opacity-gray{
+    opacity: 0.7;
+}
+#opacity-lightgray{
+    opacity: 0.3;
+}

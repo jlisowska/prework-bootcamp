@@ -1,0 +1,16 @@
+div{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 15px auto;
+    background-color: #000000;
+}
+#square2{
+    opacity: 0.75;
+}
+#square3{
+    opacity: 0.5;
+}
+#square4{
+    opacity: 0.25;
+}
