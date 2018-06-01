@@ -1,0 +1,44 @@
+body{
+    background-color: #ffffcc;
+    font-family: Arial, sans-serif;
+    
+}
+
+fieldset{
+    border: 2px solid #1f7a1f;
+    border-radius: 4px;   
+}
+
+legend{
+    background-color: #5cd65c;
+    padding: 5px 5px;
+    border: 2px solid #1f7a1f;
+    border-radius: 4px;
+    font-size: 20px;
+    color: white;
+    
+}
+
+.data{
+    margin: 10px 0 10px 5px;
+    font-size: 18px;
+    color:#1f7a1f;
+}
+
+input[type=text]{
+    margin-left: 5px;
+    padding: 5px 5px;
+    border: 2px solid #1f7a1f;
+    border-radius: 4px;
+}
+
+input[type=submit]{
+    background-color: #5cd65c;
+    margin: 15px 0px 0 5px;
+    padding: 10px 15px;
+    border: 2px solid #1f7a1f;
+    border-radius: 4px;
+    font: bold 18px Arial;
+    color: white;    
+}
+

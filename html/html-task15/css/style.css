@@ -1,0 +1,168 @@
+body{
+    background-color: #E2E4E8;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    background-color: #36393E;
+    padding: 15px 10px;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    width: 150px;
+    padding: 15px 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a:link#about-li, a:visited#about-li{
+    color: #E2514B;
+}
+
+a:hover#about-li, a:active#about-li{
+    background-color: #E2514B;
+    color: white;
+}
+
+a:link#skills-li,a:visited#skills-li{
+    color: #8FCD8D;
+}
+
+a:hover#skills-li, a:active#skills-li{
+    background-color: #8FCD8D;
+    color: white;
+}
+
+a:link#portfolio-li, a:visited#portfolio-li{
+    color: #EBDF68;
+}
+
+a:hover#portfolio-li, a:active#portfolio-li{
+    background-color: #EBDF68;
+    color: white;
+}
+a:link#contact-li, a:visited#contact-li{
+    color: #7EA1D1;
+}
+
+a:hover#contact-li, a:active#contact-li{
+    background-color: #7EA1D1;
+    color: white;
+}
+section p{
+    margin:0;
+    padding:0;
+}
+section h1{
+    margin:0 0 10px 0;
+    padding:0;
+    text-align: center;
+}
+#about-us{
+    background-color: #E2514B;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: justify;
+    color: white;
+}
+#skills{
+    background-color: #8FCD8D;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+#skillssquare1{
+    display: inline-block;
+    background-color: #DDE2ED;
+    width: 200px;
+    height: 200px;
+    margin: 0 15px 5px 0;
+}
+#skillssquare2{
+    display: inline-block;
+    background-color: #C6CEDF;
+    width: 200px;
+    height: 200px;
+    margin: 0 15px 5px 0;
+}
+#skillssquare3{
+    display: inline-block;
+    background-color: #AEB6C7;
+    width: 200px;
+    height: 200px;
+    margin: 0 15px 5px 0;
+}
+#skillssquare4{
+    display: inline-block;
+    background-color: #757D8D;
+    width: 200px;
+    height: 200px;
+    margin: 0 0 5px 0;
+}
+#portfolio{
+    background-color: #EBDF68;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+}
+.portfoliosquare{
+    display: block;
+    background-color: #FAFFBE;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #FFC300;
+    margin: 0 auto 5px auto;    
+}
+#contact{
+    background-color: #7EA1D1;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+}
+footer p{
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+footer p a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+input[type=text]{
+    display: block;
+    margin: 10px 0 10px 0;
+    padding: 5px 5px;
+    border: 2px solid white;
+    border-radius: 4px;
+}
+textarea{
+    display: block;
+    width: 50%;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    border-radius: 4px;
+    margin: 10px 0 10px 0;
+}
+label{
+    font-weight: bold;
+    color: white;
+}
+input[type=submit]{
+    display: block;
+    width: 100px;
+    height: 50px;
+    background-color: #3B3BC2;
+    padding: 5px 10px;
+    border: 2px solid white;
+    border-radius: 4px;
+    font: bold 16px Arial;
+    color: white;    
+    margin:auto;
+}
