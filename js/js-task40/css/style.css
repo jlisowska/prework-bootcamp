@@ -1,0 +1,39 @@
+body {
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #f4eec0;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+}
+
+form, p {
+    color: #7e6752;  
+}
+
+input[type="text"], #button { 
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+input[type="text"] {
+    display: block;
+    background-color: #fff;
+    padding: 0.5em 1em;
+    margin: 0.75em 0;
+    border: 2px solid #7e6752;    
+}
+
+#button {
+    padding: 0.75em 1.25em;
+    background-color: #61b292;
+    color: white;
+    border: none;    
+}
+
+#button:hover {
+    background-color: #51a080;
+}
+
+p {
+    display: inline-block;
+}

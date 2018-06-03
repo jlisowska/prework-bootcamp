@@ -1,0 +1,43 @@
+body{
+    background-color: #EEE;
+    font-family: "Arial", sans-serif;
+    margin: 0;
+}
+header, #button-container, #text{
+    text-align: center;
+}
+
+header, #button-container{
+    padding: 1.25em;
+}
+
+header{
+    background-color: #393E46;
+}
+
+header h1{
+    color: #fff;
+    font-size: 3em;
+}
+
+#add{
+    margin-right: 50px;
+}
+
+#add, #remove {
+    padding: 1em 2em;
+    background-color: #4ECCA3;
+    border: none;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+}
+#add:hover, #remove:hover {
+    background-color: #3DBBA2;
+}
+#text{
+    margin: 0;
+    padding: 1em;
+    color: #393E46;
+    font-size: 2em;
+}
